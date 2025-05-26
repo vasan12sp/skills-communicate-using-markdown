@@ -3,6 +3,10 @@
 ### heading h3
 
 
+``` javascript
+var myVar = "Hello, world!";
+```
+
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
@@ -20,4 +24,4 @@
 
 
 
-Previewed Heading types using # and added image
+Previewed Heading types using # and added image and added code markdowns
